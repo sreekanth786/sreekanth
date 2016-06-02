@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><suite configfailurepolicy="continue" name="Suite" parallel="none">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="TestCases.TestCases"/>
+      <methods>
+        <include name="TC1"/>
+        <include name="TC2"/>
+        <include name="TC3"/>
+        <include name="TC4"/>
+        <include name="TC5"/>
+        <include name="TC6"/>
+        <include name="TC7"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

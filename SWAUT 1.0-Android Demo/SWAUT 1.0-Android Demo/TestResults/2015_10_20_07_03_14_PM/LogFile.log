@@ -1,0 +1,183 @@
+ INFO | 2015-10-20 19:03:14,613 | Common.java | 72 | Startup activites...
+ INFO | 2015-10-20 19:03:14,616 | Common.java | 72 | Test Output Directory creation successful :D:\POCs\Mobile\SWAUT 1.0-Android Demo\SWAUT 1.0-Android Demo\TestResults\2015_10_20_07_03_14_PM
+ INFO | 2015-10-20 19:03:14,616 | Common.java | 72 | Log File creation successful : LogFile.log
+ INFO | 2015-10-20 19:03:14,897 | Common.java | 72 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2015-10-20 19:03:15,000 | Common.java | 72 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2015-10-20 19:03:15,280 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:15,280 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:15,281 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:15,281 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:15,281 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:03:15,282 | Common.java | 72 | ##### Start of Test Case : Validate Addition #####
+ WARN | 2015-10-20 19:03:15,282 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Addition</h1></font><br/>
+ INFO | 2015-10-20 19:03:15,283 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2015-10-20 19:03:15,283 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2015-10-20 19:03:15,283 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2015-10-20 19:03:15,284 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:03:15,286 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:03:15,286 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:03:15,287 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2015-10-20 19:03:15,288 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2015-10-20 19:03:20,101 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:20,101 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:20,102 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:20,102 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:20,104 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:20,112 | Common.java | 72 | Time out set
+ INFO | 2015-10-20 19:03:20,112 | Common.java | 72 | Application: Open Successful: Calculator
+ INFO | 2015-10-20 19:03:20,112 | Common.java | 72 | Report step generation success : Open Application: ''Calculator''
+ INFO | 2015-10-20 19:03:21,925 | Common.java | 72 | Entered the integer1 ->45
+ INFO | 2015-10-20 19:03:21,926 | Common.java | 72 | Report step generation success : Entered the integer1 ->45
+ INFO | 2015-10-20 19:03:23,782 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2015-10-20 19:03:23,783 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ INFO | 2015-10-20 19:03:24,416 | Common.java | 72 | Expected ->50, Actual->50
+ INFO | 2015-10-20 19:03:24,416 | Common.java | 72 | Report step generation success : Expected ->50, Actual->50
+ INFO | 2015-10-20 19:03:25,198 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:25,198 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:25,199 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:25,199 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:25,199 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:03:25,199 | Common.java | 72 | ##### Start of Test Case : Validate Substraction #####
+ WARN | 2015-10-20 19:03:25,199 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Substraction</h1></font><br/>
+ INFO | 2015-10-20 19:03:31,232 | Common.java | 72 | Entered the integer1 ->56
+ INFO | 2015-10-20 19:03:31,232 | Common.java | 72 | Report step generation success : Entered the integer1 ->56
+ INFO | 2015-10-20 19:03:32,770 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2015-10-20 19:03:32,771 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ INFO | 2015-10-20 19:03:33,614 | Common.java | 72 | Expected ->51, Actual->51
+ INFO | 2015-10-20 19:03:33,614 | Common.java | 72 | Report step generation success : Expected ->51, Actual->51
+ INFO | 2015-10-20 19:03:34,434 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:34,434 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:34,434 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:34,435 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:34,435 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:03:34,435 | Common.java | 72 | ##### Start of Test Case : Validate Multiplication #####
+ WARN | 2015-10-20 19:03:34,435 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Multiplication</h1></font><br/>
+ INFO | 2015-10-20 19:03:40,143 | Common.java | 72 | Entered the integer1 ->12
+ INFO | 2015-10-20 19:03:40,143 | Common.java | 72 | Report step generation success : Entered the integer1 ->12
+ INFO | 2015-10-20 19:03:41,721 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2015-10-20 19:03:41,722 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ERROR | 2015-10-20 19:03:42,271 | Common.java | 80 | Expected ->55, Actual->60
+ERROR | 2015-10-20 19:03:42,272 | Common.java | 80 | Report step generation success : Expected ->55, Actual->60
+ INFO | 2015-10-20 19:03:42,985 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:03:42,986 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:03:43,755 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:43,755 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:43,756 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:43,756 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:43,756 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:03:43,756 | Common.java | 72 | ##### Start of Test Case : Validate Division #####
+ WARN | 2015-10-20 19:03:43,756 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Division</h1></font><br/>
+ INFO | 2015-10-20 19:03:49,414 | Common.java | 72 | Entered the integer1 ->90
+ INFO | 2015-10-20 19:03:49,415 | Common.java | 72 | Report step generation success : Entered the integer1 ->90
+ INFO | 2015-10-20 19:03:51,900 | Common.java | 72 | Entered the integer2 ->10
+ INFO | 2015-10-20 19:03:51,901 | Common.java | 72 | Report step generation success : Entered the integer2 ->10
+ INFO | 2015-10-20 19:03:52,492 | Common.java | 72 | Expected ->9, Actual->9
+ INFO | 2015-10-20 19:03:52,493 | Common.java | 72 | Report step generation success : Expected ->9, Actual->9
+ INFO | 2015-10-20 19:03:53,237 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:53,237 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:53,238 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:53,238 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:53,238 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:03:53,238 | Common.java | 72 | ##### Start of Test Case : Launch & Send Message #####
+ WARN | 2015-10-20 19:03:53,239 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Launch & Send Message</h1></font><br/>
+ INFO | 2015-10-20 19:03:53,249 | Common.java | 72 | Getting value of AppName2 from Test Configuration file : Viber
+ INFO | 2015-10-20 19:03:53,249 | Common.java | 72 | Getting value of AppPackageName2 from Test Configuration file : com.viber.voip
+ INFO | 2015-10-20 19:03:53,249 | Common.java | 72 | Getting value of AppActivityName2 from Test Configuration file : com.viber.voip.WelcomeActivity
+ INFO | 2015-10-20 19:03:53,250 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:03:53,250 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:03:53,250 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:03:53,250 | Common.java | 72 | Opening Viber Application...
+ INFO | 2015-10-20 19:03:53,251 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2015-10-20 19:03:57,801 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:03:57,802 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:57,802 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:03:57,802 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:57,802 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:03:57,811 | Common.java | 72 | Time out set
+ INFO | 2015-10-20 19:03:57,811 | Common.java | 72 | Application: Open Successful: Viber
+ INFO | 2015-10-20 19:03:57,811 | Common.java | 72 | Report step generation success : Open Application: ''Viber''
+ INFO | 2015-10-20 19:03:57,816 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2015-10-20 19:03:57,816 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:03:57,816 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2015-10-20 19:03:57,816 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2015-10-20 19:04:01,365 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2015-10-20 19:04:01,366 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2015-10-20 19:04:01,383 | Common.java | 72 | Parsing : Message From button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2015-10-20 19:04:01,383 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:04:01,384 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2015-10-20 19:04:01,384 | Common.java | 72 | Locator Description : Message From button
+ERROR | 2015-10-20 19:04:02,664 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/from")'
+ INFO | 2015-10-20 19:04:03,106 | Common.java | 72 | Successfuly clicked on Message From button
+ INFO | 2015-10-20 19:04:03,107 | Common.java | 72 | Report step generation success : Click on :Message From button
+ INFO | 2015-10-20 19:04:03,119 | Common.java | 72 | Parsing : Send Text Field#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2015-10-20 19:04:03,120 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:04:03,120 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2015-10-20 19:04:03,121 | Common.java | 72 | Locator Description : Send Text Field
+ERROR | 2015-10-20 19:04:04,767 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/send_text")'
+ INFO | 2015-10-20 19:04:18,302 | Common.java | 72 | Typing 'Sample message psndo' in : Send Text Field
+ INFO | 2015-10-20 19:04:18,303 | Common.java | 72 | Report step generation success : Type 'Sample message psndo' in : Send Text Field
+ INFO | 2015-10-20 19:04:18,312 | Common.java | 72 | Parsing : Send Extra Button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2015-10-20 19:04:18,312 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:04:18,312 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2015-10-20 19:04:18,312 | Common.java | 72 | Locator Description : Send Extra Button
+ERROR | 2015-10-20 19:04:18,800 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")'
+ INFO | 2015-10-20 19:04:19,524 | Common.java | 72 | Successfuly clicked on Send Extra Button
+ INFO | 2015-10-20 19:04:19,524 | Common.java | 72 | Report step generation success : Click on :Send Extra Button
+ INFO | 2015-10-20 19:04:20,305 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:04:20,305 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:04:20,305 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:04:20,306 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:04:20,306 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:04:20,306 | Common.java | 72 | ##### Start of Test Case : Viber Menu Navigation #####
+ WARN | 2015-10-20 19:04:20,306 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Viber Menu Navigation</h1></font><br/>
+ INFO | 2015-10-20 19:04:24,158 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2015-10-20 19:04:24,158 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:04:24,158 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2015-10-20 19:04:24,159 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2015-10-20 19:04:30,947 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2015-10-20 19:04:30,948 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2015-10-20 19:04:30,948 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:04:33,965 | Common.java | 72 | Parsing : Contacts button#xpath=//*[@content-desc='Contacts']
+ INFO | 2015-10-20 19:04:33,965 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:04:33,965 | Common.java | 72 | Locator : //*[@content-desc='Contacts']
+ INFO | 2015-10-20 19:04:33,966 | Common.java | 72 | Locator Description : Contacts button
+ INFO | 2015-10-20 19:04:34,301 | Common.java | 72 | Successfuly clicked on Contacts button
+ INFO | 2015-10-20 19:04:34,301 | Common.java | 72 | Report step generation success : Click on :Contacts button
+ INFO | 2015-10-20 19:04:34,302 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:04:37,315 | Common.java | 72 | Parsing : Keypad button#xpath=//*[@content-desc='Keypad']
+ INFO | 2015-10-20 19:04:37,315 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:04:37,315 | Common.java | 72 | Locator : //*[@content-desc='Keypad']
+ INFO | 2015-10-20 19:04:37,316 | Common.java | 72 | Locator Description : Keypad button
+ INFO | 2015-10-20 19:04:37,746 | Common.java | 72 | Successfuly clicked on Keypad button
+ INFO | 2015-10-20 19:04:37,746 | Common.java | 72 | Report step generation success : Click on :Keypad button
+ INFO | 2015-10-20 19:04:37,747 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:04:40,756 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2015-10-20 19:04:40,757 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:04:40,757 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2015-10-20 19:04:40,757 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2015-10-20 19:04:41,374 | Common.java | 72 | Successfuly clicked on Groups Icon button
+ INFO | 2015-10-20 19:04:41,375 | Common.java | 72 | Report step generation success : Click on :Groups Icon button
+ INFO | 2015-10-20 19:04:41,375 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:04:45,147 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:04:45,148 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:04:45,148 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:04:45,148 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:04:45,148 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:04:45,148 | Common.java | 72 | ##### Start of Test Case : Verify Book Flight #####
+ WARN | 2015-10-20 19:04:45,148 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Verify Book Flight</h1></font><br/>
+ INFO | 2015-10-20 19:04:55,555 | Common.java | 72 | Getting value of Project_Name from Test Configuration file : Android Demo
+ INFO | 2015-10-20 19:04:55,556 | Common.java | 72 | Getting value of Version_Name from Test Configuration file : 1.7
+ INFO | 2015-10-20 19:04:55,556 | Common.java | 72 | Getting value of ToEmail from Test Configuration file : 
+ INFO | 2015-10-20 19:04:55,556 | Common.java | 72 | Getting value of CcEmail from Test Configuration file : 
+ INFO | 2015-10-20 19:04:55,873 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 19:04:55,874 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 19:04:55,874 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 19:04:55,874 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 19:04:55,883 | Common.java | 72 | Cleanup activites...
+ INFO | 2015-10-20 19:04:55,883 | Common.java | 72 | Cleanup activities - Done...
+ INFO | 2015-10-20 19:04:55,883 | Common.java | 72 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:04:55,884 | Common.java | 72 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:04:55,884 | Common.java | 72 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:04:55,884 | Common.java | 72 | ###################################
+ INFO | 2015-10-20 19:04:55,884 | Common.java | 72 | Script Execution Complete
+ INFO | 2015-10-20 19:04:55,884 | Common.java | 72 | ####################################

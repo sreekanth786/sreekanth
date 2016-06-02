@@ -1,0 +1,158 @@
+ INFO | 2016-05-31 15:40:41,000 | Common.java | 72 | Startup activites...
+ INFO | 2016-05-31 15:40:41,004 | Common.java | 72 | Test Output Directory creation successful :D:\POCs\Mobile\SWAUT 1.0-Android Demo\SWAUT 1.0-Android Demo\TestResults\2016_05_31_03_40_40_PM
+ INFO | 2016-05-31 15:40:41,004 | Common.java | 72 | Log File creation successful : LogFile.log
+ INFO | 2016-05-31 15:40:44,019 | Common.java | 72 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-05-31 15:40:45,396 | Common.java | 72 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-05-31 15:40:47,273 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:47,273 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:47,274 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:47,274 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:47,274 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:47,275 | Common.java | 72 | ##### Start of Test Case : Validate Addition #####
+ WARN | 2016-05-31 15:40:47,275 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Addition</h1></font><br/>
+ INFO | 2016-05-31 15:40:47,276 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2016-05-31 15:40:47,276 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2016-05-31 15:40:47,276 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2016-05-31 15:40:47,277 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 15:40:47,279 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 15:40:47,279 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 15:40:47,280 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2016-05-31 15:40:47,304 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2016-05-31 15:40:55,532 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2016-05-31 15:40:55,558 | Common.java | 80 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:55,559 | Common.java | 80 | Report step generation success : org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:55,559 | Common.java | 80 | Open App : AppName
+ERROR | 2016-05-31 15:40:55,559 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2016-05-31 15:40:56,905 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:56,905 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:56,906 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:56,906 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:56,906 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:56,907 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:56,907 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:56,907 | Common.java | 72 | ##### Start of Test Case : Validate Substraction #####
+ WARN | 2016-05-31 15:40:56,907 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Substraction</h1></font><br/>
+ INFO | 2016-05-31 15:40:56,907 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2016-05-31 15:40:56,907 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2016-05-31 15:40:56,908 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2016-05-31 15:40:57,906 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2016-05-31 15:40:57,907 | Common.java | 80 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:57,907 | Common.java | 80 | Report step generation success : org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:57,908 | Common.java | 80 | Open App : AppName
+ERROR | 2016-05-31 15:40:57,908 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2016-05-31 15:40:57,909 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:57,909 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:57,910 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:57,910 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:57,911 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:57,911 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:57,911 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:57,911 | Common.java | 72 | ##### Start of Test Case : Validate Multiplication #####
+ WARN | 2016-05-31 15:40:57,912 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Multiplication</h1></font><br/>
+ INFO | 2016-05-31 15:40:57,918 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2016-05-31 15:40:57,918 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2016-05-31 15:40:57,918 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2016-05-31 15:40:57,919 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 15:40:57,919 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 15:40:57,919 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 15:40:57,920 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2016-05-31 15:40:57,922 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2016-05-31 15:40:58,923 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2016-05-31 15:40:58,924 | Common.java | 80 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:58,925 | Common.java | 80 | Report step generation success : org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:58,925 | Common.java | 80 | Open App : AppName
+ERROR | 2016-05-31 15:40:58,925 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2016-05-31 15:40:58,926 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:58,926 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:58,927 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:58,927 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:58,927 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:58,927 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:58,928 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:58,928 | Common.java | 72 | ##### Start of Test Case : Validate Division #####
+ WARN | 2016-05-31 15:40:58,928 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Division</h1></font><br/>
+ INFO | 2016-05-31 15:40:58,928 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2016-05-31 15:40:58,928 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2016-05-31 15:40:58,928 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2016-05-31 15:40:58,929 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 15:40:58,929 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 15:40:58,929 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 15:40:58,929 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2016-05-31 15:40:58,930 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2016-05-31 15:40:59,925 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2016-05-31 15:40:59,926 | Common.java | 80 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:59,930 | Common.java | 80 | Report step generation success : org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.93.52', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: TestDriver
+ERROR | 2016-05-31 15:40:59,930 | Common.java | 80 | Open App : AppName
+ERROR | 2016-05-31 15:40:59,930 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2016-05-31 15:40:59,967 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:59,967 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:59,968 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:59,969 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,969 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:59,969 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,969 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:59,970 | Common.java | 72 | ##### Start of Test Case : Launch & Send Message #####
+ WARN | 2016-05-31 15:40:59,970 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Launch & Send Message</h1></font><br/>
+ERROR | 2016-05-31 15:40:59,971 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:59,971 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:59,972 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:59,972 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,972 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:59,972 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,974 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:59,974 | Common.java | 72 | ##### Start of Test Case : Viber Menu Navigation #####
+ WARN | 2016-05-31 15:40:59,974 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Viber Menu Navigation</h1></font><br/>
+ERROR | 2016-05-31 15:40:59,975 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2016-05-31 15:40:59,975 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2016-05-31 15:40:59,976 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 15:40:59,977 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,977 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 15:40:59,977 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 15:40:59,977 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 15:40:59,978 | Common.java | 72 | ##### Start of Test Case : Verify Book Flight #####
+ WARN | 2016-05-31 15:40:59,978 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Verify Book Flight</h1></font><br/>
+ INFO | 2016-05-31 15:41:01,366 | Common.java | 72 | Getting value of Project_Name from Test Configuration file : Android Demo
+ INFO | 2016-05-31 15:41:01,366 | Common.java | 72 | Getting value of Version_Name from Test Configuration file : 1.7
+ INFO | 2016-05-31 15:41:01,366 | Common.java | 72 | Getting value of ToEmail from Test Configuration file : 
+ INFO | 2016-05-31 15:41:01,366 | Common.java | 72 | Getting value of CcEmail from Test Configuration file : 
+ INFO | 2016-05-31 15:41:07,090 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-05-31 15:41:07,090 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2016-05-31 15:41:07,090 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-05-31 15:41:07,091 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2016-05-31 15:41:07,470 | Common.java | 72 | Cleanup activites...
+ INFO | 2016-05-31 15:41:07,470 | Common.java | 72 | Cleanup activities - Done...
+ INFO | 2016-05-31 15:41:07,471 | Common.java | 72 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 15:41:07,471 | Common.java | 72 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 15:41:07,471 | Common.java | 72 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 15:41:07,471 | Common.java | 72 | ###################################
+ INFO | 2016-05-31 15:41:07,471 | Common.java | 72 | Script Execution Complete
+ INFO | 2016-05-31 15:41:07,472 | Common.java | 72 | ####################################

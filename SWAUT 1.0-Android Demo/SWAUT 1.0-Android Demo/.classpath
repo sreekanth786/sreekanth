@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="lib" path="config"/>
+	<classpathentry kind="lib" path="ext/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="ext/com.springsource.com.lowagie.text-2.0.8.jar"/>
+	<classpathentry kind="lib" path="ext/core-renderer-R8pre2.jar"/>
+	<classpathentry kind="lib" path="ext/jxl.jar"/>
+	<classpathentry kind="lib" path="ext/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="ext/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="ext/activation.jar"/>
+	<classpathentry kind="lib" path="ext/mail.jar"/>
+	<classpathentry kind="lib" path="ext/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="ext/twilio-java-sdk-3.4.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="ext/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="ext/java-client-1.6.1.jar"/>
+	<classpathentry kind="lib" path="ext/jtidy-r872-jdk15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ext/iSAFE-Mobile-Updated.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

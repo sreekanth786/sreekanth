@@ -1,0 +1,4 @@
+javac -d bin -sourcepath src -cp .\ext\iSafe-vserv.jar;.\ext\com.springsource.com.lowagie.text-2.0.8.jar;.\ext\core-renderer-R8pre2.jar;.\ext\activation.jar;.\ext\gson-2.2.4.jar;.\ext\itextpdf-5.2.1.jar;.\ext\java-client-1.6.1.jar;.\ext\jtds-1.2.5.jar;.\ext\jtidy-r872-jdk15.jar;.\ext\jxl.jar;.\ext\log4j-1.2.16.jar;.\ext\mail.jar;.\ext\selenium-server-standalone-2.42.2.jar;.\ext\twilio-java-sdk-3.4.4-jar-with-dependencies.jar .\src\iSAFE\TestDriver.java
+
+
+java -cp bin;.\ext\iSafe-vserv.jar;.\ext\com.springsource.com.lowagie.text-2.0.8.jar;.\ext\core-renderer-R8pre2.jar;.\ext\activation.jar;.\ext\gson-2.2.4.jar;.\ext\itextpdf-5.2.1.jar;.\ext\java-client-1.6.1.jar;.\ext\jtds-1.2.5.jar;.\ext\jtidy-r872-jdk15.jar;.\ext\jxl.jar;.\ext\log4j-1.2.16.jar;.\ext\mail.jar;.\ext\selenium-server-standalone-2.42.2.jar;.\ext\twilio-java-sdk-3.4.4-jar-with-dependencies.jar iSAFE.TestDriver

@@ -1,0 +1,268 @@
+ INFO | 2015-10-20 19:13:04,290 | Common.java | 72 | Startup activites...
+ INFO | 2015-10-20 19:13:04,293 | Common.java | 72 | Test Output Directory creation successful :D:\POCs\Mobile\SWAUT 1.0-Android Demo\SWAUT 1.0-Android Demo\TestResults\2015_10_20_07_13_04_PM
+ INFO | 2015-10-20 19:13:04,294 | Common.java | 72 | Log File creation successful : LogFile.log
+ INFO | 2015-10-20 19:13:04,583 | Common.java | 72 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2015-10-20 19:13:04,676 | Common.java | 72 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2015-10-20 19:13:04,919 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:04,919 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:04,920 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:04,920 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:04,920 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:04,920 | Common.java | 72 | ##### Start of Test Case : Validate Addition #####
+ WARN | 2015-10-20 19:13:04,921 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Addition</h1></font><br/>
+ INFO | 2015-10-20 19:13:04,921 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2015-10-20 19:13:04,922 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2015-10-20 19:13:04,922 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2015-10-20 19:13:04,923 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:13:04,925 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:13:04,925 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:13:04,926 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2015-10-20 19:13:04,928 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2015-10-20 19:13:09,562 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:09,563 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:09,563 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:09,564 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:09,566 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:09,572 | Common.java | 72 | Time out set
+ INFO | 2015-10-20 19:13:09,573 | Common.java | 72 | Application: Open Successful: Calculator
+ INFO | 2015-10-20 19:13:09,573 | Common.java | 72 | Report step generation success : Open Application: ''Calculator''
+ INFO | 2015-10-20 19:13:11,862 | Common.java | 72 | Entered the integer1 ->45
+ INFO | 2015-10-20 19:13:11,862 | Common.java | 72 | Report step generation success : Entered the integer1 ->45
+ INFO | 2015-10-20 19:13:13,464 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2015-10-20 19:13:13,464 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ INFO | 2015-10-20 19:13:14,023 | Common.java | 72 | Expected ->50, Actual->50
+ INFO | 2015-10-20 19:13:14,023 | Common.java | 72 | Report step generation success : Expected ->50, Actual->50
+ INFO | 2015-10-20 19:13:14,846 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | ##### Start of Test Case : Validate Substraction #####
+ WARN | 2015-10-20 19:13:14,847 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Substraction</h1></font><br/>
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2015-10-20 19:13:14,847 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2015-10-20 19:13:14,848 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2015-10-20 19:13:14,859 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2015-10-20 19:13:14,864 | Common.java | 80 | org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:14,865 | Common.java | 80 | Report step generation success : org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:14,865 | Common.java | 80 | Open App : AppName
+ERROR | 2015-10-20 19:13:14,865 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2015-10-20 19:13:14,875 | Common.java | 80 | Report step generation success : org.openqa.selenium.WebDriverException: ERROR running Appium command: Cannot call method 'shell' of null
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.android.calculator2, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=TA64303CQW, platform=LINUX, appActivity=com.android.calculator2.Calculator, desired={appPackage=com.android.calculator2, appActivity=com.android.calculator2.Calculator, newCommandTimeout=500, platformName=Android, deviceName=Android}, newCommandTimeout=500, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 5d105405-5824-4d08-8b8a-395b83dece41
+ INFO | 2015-10-20 19:13:15,154 | Common.java | 72 | Taken screenshot of failing screen
+ INFO | 2015-10-20 19:13:15,154 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,155 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,163 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:15,163 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,164 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:15,164 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,164 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:15,164 | Common.java | 72 | ##### Start of Test Case : Validate Multiplication #####
+ WARN | 2015-10-20 19:13:15,164 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Multiplication</h1></font><br/>
+ INFO | 2015-10-20 19:13:15,165 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2015-10-20 19:13:15,165 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2015-10-20 19:13:15,165 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2015-10-20 19:13:15,165 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:13:15,166 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:13:15,166 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:13:15,166 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2015-10-20 19:13:15,166 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2015-10-20 19:13:15,175 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2015-10-20 19:13:15,176 | Common.java | 80 | org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:15,176 | Common.java | 80 | Report step generation success : org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:15,176 | Common.java | 80 | Open App : AppName
+ERROR | 2015-10-20 19:13:15,177 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2015-10-20 19:13:15,183 | Common.java | 80 | Report step generation success : org.openqa.selenium.WebDriverException: ERROR running Appium command: Cannot call method 'shell' of null
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.android.calculator2, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=TA64303CQW, platform=LINUX, appActivity=com.android.calculator2.Calculator, desired={appPackage=com.android.calculator2, appActivity=com.android.calculator2.Calculator, newCommandTimeout=500, platformName=Android, deviceName=Android}, newCommandTimeout=500, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 5d105405-5824-4d08-8b8a-395b83dece41
+ INFO | 2015-10-20 19:13:15,385 | Common.java | 72 | Taken screenshot of failing screen
+ INFO | 2015-10-20 19:13:15,386 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,386 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,392 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:15,392 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,392 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | ##### Start of Test Case : Validate Division #####
+ WARN | 2015-10-20 19:13:15,393 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Division</h1></font><br/>
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2015-10-20 19:13:15,393 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:13:15,394 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:13:15,394 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:13:15,394 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2015-10-20 19:13:15,394 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ERROR | 2015-10-20 19:13:15,404 | Common.java | 80 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2015-10-20 19:13:15,404 | Common.java | 80 | org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:15,405 | Common.java | 80 | Report step generation success : org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Requested a new session but one was in progress) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+ERROR | 2015-10-20 19:13:15,405 | Common.java | 80 | Open App : AppName
+ERROR | 2015-10-20 19:13:15,405 | Common.java | 80 | Report step generation success : Open App : AppName
+ERROR | 2015-10-20 19:13:15,427 | Common.java | 80 | Report step generation success : org.openqa.selenium.WebDriverException: ERROR running Appium command: Cannot call method 'shell' of null
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:03'
+System info: host: 'STI-L01-KISHORE', ip: '192.168.90.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.android.calculator2, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=TA64303CQW, platform=LINUX, appActivity=com.android.calculator2.Calculator, desired={appPackage=com.android.calculator2, appActivity=com.android.calculator2.Calculator, newCommandTimeout=500, platformName=Android, deviceName=Android}, newCommandTimeout=500, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 5d105405-5824-4d08-8b8a-395b83dece41
+ INFO | 2015-10-20 19:13:15,646 | Common.java | 72 | Taken screenshot of failing screen
+ INFO | 2015-10-20 19:13:15,646 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,646 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:13:15,652 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:15,653 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,653 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:15,653 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:15,653 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:15,653 | Common.java | 72 | ##### Start of Test Case : Launch & Send Message #####
+ WARN | 2015-10-20 19:13:15,653 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Launch & Send Message</h1></font><br/>
+ INFO | 2015-10-20 19:13:15,659 | Common.java | 72 | Getting value of AppName2 from Test Configuration file : Viber
+ INFO | 2015-10-20 19:13:15,659 | Common.java | 72 | Getting value of AppPackageName2 from Test Configuration file : com.viber.voip
+ INFO | 2015-10-20 19:13:15,659 | Common.java | 72 | Getting value of AppActivityName2 from Test Configuration file : com.viber.voip.WelcomeActivity
+ INFO | 2015-10-20 19:13:15,659 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2015-10-20 19:13:15,660 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2015-10-20 19:13:15,660 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2015-10-20 19:13:15,660 | Common.java | 72 | Opening Viber Application...
+ INFO | 2015-10-20 19:13:15,660 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2015-10-20 19:13:19,929 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:19,929 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:19,929 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:19,930 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:19,930 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:19,935 | Common.java | 72 | Time out set
+ INFO | 2015-10-20 19:13:19,935 | Common.java | 72 | Application: Open Successful: Viber
+ INFO | 2015-10-20 19:13:19,935 | Common.java | 72 | Report step generation success : Open Application: ''Viber''
+ INFO | 2015-10-20 19:13:19,943 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2015-10-20 19:13:19,943 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:13:19,943 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2015-10-20 19:13:19,944 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2015-10-20 19:13:23,593 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2015-10-20 19:13:23,593 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2015-10-20 19:13:23,602 | Common.java | 72 | Parsing : Message From button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2015-10-20 19:13:23,602 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:13:23,603 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2015-10-20 19:13:23,603 | Common.java | 72 | Locator Description : Message From button
+ERROR | 2015-10-20 19:13:24,866 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/from")'
+ INFO | 2015-10-20 19:13:25,303 | Common.java | 72 | Successfuly clicked on Message From button
+ INFO | 2015-10-20 19:13:25,304 | Common.java | 72 | Report step generation success : Click on :Message From button
+ INFO | 2015-10-20 19:13:25,310 | Common.java | 72 | Parsing : Send Text Field#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2015-10-20 19:13:25,311 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:13:25,311 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2015-10-20 19:13:25,311 | Common.java | 72 | Locator Description : Send Text Field
+ERROR | 2015-10-20 19:13:26,469 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/send_text")'
+ INFO | 2015-10-20 19:13:37,297 | Common.java | 72 | Typing 'Sample message oiiwh' in : Send Text Field
+ INFO | 2015-10-20 19:13:37,297 | Common.java | 72 | Report step generation success : Type 'Sample message oiiwh' in : Send Text Field
+ INFO | 2015-10-20 19:13:37,308 | Common.java | 72 | Parsing : Send Extra Button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2015-10-20 19:13:37,308 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2015-10-20 19:13:37,308 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2015-10-20 19:13:37,308 | Common.java | 72 | Locator Description : Send Extra Button
+ERROR | 2015-10-20 19:13:38,001 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")'
+ INFO | 2015-10-20 19:13:38,702 | Common.java | 72 | Successfuly clicked on Send Extra Button
+ INFO | 2015-10-20 19:13:38,702 | Common.java | 72 | Report step generation success : Click on :Send Extra Button
+ INFO | 2015-10-20 19:13:39,594 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:13:39,594 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:39,595 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:13:39,595 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:13:39,595 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:13:39,595 | Common.java | 72 | ##### Start of Test Case : Viber Menu Navigation #####
+ WARN | 2015-10-20 19:13:39,595 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Viber Menu Navigation</h1></font><br/>
+ INFO | 2015-10-20 19:13:43,609 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2015-10-20 19:13:43,609 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:13:43,610 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2015-10-20 19:13:43,610 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2015-10-20 19:13:50,744 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2015-10-20 19:13:50,745 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2015-10-20 19:13:50,746 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:13:53,756 | Common.java | 72 | Parsing : Contacts button#xpath=//*[@content-desc='Contacts']
+ INFO | 2015-10-20 19:13:53,757 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:13:53,757 | Common.java | 72 | Locator : //*[@content-desc='Contacts']
+ INFO | 2015-10-20 19:13:53,757 | Common.java | 72 | Locator Description : Contacts button
+ INFO | 2015-10-20 19:13:54,340 | Common.java | 72 | Successfuly clicked on Contacts button
+ INFO | 2015-10-20 19:13:54,341 | Common.java | 72 | Report step generation success : Click on :Contacts button
+ INFO | 2015-10-20 19:13:54,341 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:13:57,352 | Common.java | 72 | Parsing : Keypad button#xpath=//*[@content-desc='Keypad']
+ INFO | 2015-10-20 19:13:57,352 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:13:57,352 | Common.java | 72 | Locator : //*[@content-desc='Keypad']
+ INFO | 2015-10-20 19:13:57,352 | Common.java | 72 | Locator Description : Keypad button
+ INFO | 2015-10-20 19:13:57,754 | Common.java | 72 | Successfuly clicked on Keypad button
+ INFO | 2015-10-20 19:13:57,754 | Common.java | 72 | Report step generation success : Click on :Keypad button
+ INFO | 2015-10-20 19:13:57,754 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:14:00,767 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2015-10-20 19:14:00,767 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:14:00,767 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2015-10-20 19:14:00,767 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2015-10-20 19:14:01,139 | Common.java | 72 | Successfuly clicked on Groups Icon button
+ INFO | 2015-10-20 19:14:01,140 | Common.java | 72 | Report step generation success : Click on :Groups Icon button
+ INFO | 2015-10-20 19:14:01,140 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2015-10-20 19:14:04,992 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 19:14:04,992 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:14:04,992 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 19:14:04,992 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 19:14:04,993 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 19:14:04,993 | Common.java | 72 | ##### Start of Test Case : Verify Book Flight #####
+ WARN | 2015-10-20 19:14:04,993 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Verify Book Flight</h1></font><br/>
+ INFO | 2015-10-20 19:14:20,117 | Common.java | 72 | Entered userName and password
+ INFO | 2015-10-20 19:14:20,117 | Common.java | 72 | Report step generation success : Entered userName and password
+ INFO | 2015-10-20 19:14:24,634 | Common.java | 72 | Clicked on sign in button
+ INFO | 2015-10-20 19:14:24,634 | Common.java | 72 | Report step generation success : Clicked on sign in button
+ INFO | 2015-10-20 19:14:43,685 | Common.java | 72 | Enterd all the details
+ INFO | 2015-10-20 19:14:43,686 | Common.java | 72 | Report step generation success : Enterd all the details
+ INFO | 2015-10-20 19:14:49,622 | Common.java | 72 | Parsing : Ticket book Success#xpath=//*[contains(text(),'has been booked')]
+ INFO | 2015-10-20 19:14:49,623 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 19:14:49,623 | Common.java | 72 | Locator : //*[contains(text(),'has been booked')]
+ INFO | 2015-10-20 19:14:49,623 | Common.java | 72 | Locator Description : Ticket book Success
+ INFO | 2015-10-20 19:14:54,131 | Common.java | 72 | Flight Ticket has been booked successfully
+ INFO | 2015-10-20 19:14:54,131 | Common.java | 72 | Report step generation success : Flight Ticket has been booked successfully
+ INFO | 2015-10-20 19:14:54,295 | Common.java | 72 | Getting value of Project_Name from Test Configuration file : Android Demo
+ INFO | 2015-10-20 19:14:54,295 | Common.java | 72 | Getting value of Version_Name from Test Configuration file : 1.7
+ INFO | 2015-10-20 19:14:54,295 | Common.java | 72 | Getting value of ToEmail from Test Configuration file : 
+ INFO | 2015-10-20 19:14:54,296 | Common.java | 72 | Getting value of CcEmail from Test Configuration file : 
+ INFO | 2015-10-20 19:14:54,629 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 19:14:54,629 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 19:14:54,630 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 19:14:54,630 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 19:14:54,637 | Common.java | 72 | Cleanup activites...
+ INFO | 2015-10-20 19:14:54,637 | Common.java | 72 | Cleanup activities - Done...
+ INFO | 2015-10-20 19:14:54,637 | Common.java | 72 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:14:54,637 | Common.java | 72 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:14:54,638 | Common.java | 72 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 19:14:54,638 | Common.java | 72 | ###################################
+ INFO | 2015-10-20 19:14:54,638 | Common.java | 72 | Script Execution Complete
+ INFO | 2015-10-20 19:14:54,638 | Common.java | 72 | ####################################

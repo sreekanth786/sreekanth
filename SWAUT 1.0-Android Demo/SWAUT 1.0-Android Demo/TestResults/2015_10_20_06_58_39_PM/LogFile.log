@@ -1,0 +1,49 @@
+ INFO | 2015-10-20 18:58:39,080 | Common.java | 72 | Startup activites...
+ INFO | 2015-10-20 18:58:39,083 | Common.java | 72 | Test Output Directory creation successful :D:\POCs\Mobile\SWAUT 1.0-Android Demo\SWAUT 1.0-Android Demo\TestResults\2015_10_20_06_58_39_PM
+ INFO | 2015-10-20 18:58:39,083 | Common.java | 72 | Log File creation successful : LogFile.log
+ INFO | 2015-10-20 18:58:39,356 | Common.java | 72 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2015-10-20 18:58:39,475 | Common.java | 72 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2015-10-20 18:58:39,775 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 18:58:39,776 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 18:58:39,776 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 18:58:39,777 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 18:58:39,777 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 18:58:39,777 | Common.java | 72 | ##### Start of Test Case : Viber Menu Navigation #####
+ WARN | 2015-10-20 18:58:39,779 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Viber Menu Navigation</h1></font><br/>
+ERROR | 2015-10-20 18:58:39,866 | Common.java | 80 | java.lang.NullPointerException
+ERROR | 2015-10-20 18:58:39,866 | Common.java | 80 | Report step generation success : java.lang.NullPointerException
+ INFO | 2015-10-20 18:58:39,868 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2015-10-20 18:58:39,868 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 18:58:39,870 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2015-10-20 18:58:39,871 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2015-10-20 18:58:39,871 | Common.java | 72 | Element time out set
+ INFO | 2015-10-20 18:58:39,871 | Common.java | 72 | ##### Start of Test Case : Verify Book Flight #####
+ WARN | 2015-10-20 18:58:39,871 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Verify Book Flight</h1></font><br/>
+ INFO | 2015-10-20 18:58:51,584 | Common.java | 72 | Entered userName and password
+ INFO | 2015-10-20 18:58:51,585 | Common.java | 72 | Report step generation success : Entered userName and password
+ INFO | 2015-10-20 18:58:56,297 | Common.java | 72 | Clicked on sign in button
+ INFO | 2015-10-20 18:58:56,297 | Common.java | 72 | Report step generation success : Clicked on sign in button
+ INFO | 2015-10-20 18:59:06,011 | Common.java | 72 | Enterd all the details
+ INFO | 2015-10-20 18:59:06,012 | Common.java | 72 | Report step generation success : Enterd all the details
+ INFO | 2015-10-20 18:59:11,820 | Common.java | 72 | Parsing : Ticket book Success#xpath=//*[contains(text(),'has been booked')]
+ INFO | 2015-10-20 18:59:11,821 | Common.java | 72 | Identify By : xpath
+ INFO | 2015-10-20 18:59:11,821 | Common.java | 72 | Locator : //*[contains(text(),'has been booked')]
+ INFO | 2015-10-20 18:59:11,821 | Common.java | 72 | Locator Description : Ticket book Success
+ INFO | 2015-10-20 18:59:13,306 | Common.java | 72 | Flight Ticket has been booked successfully
+ INFO | 2015-10-20 18:59:13,307 | Common.java | 72 | Report step generation success : Flight Ticket has been booked successfully
+ INFO | 2015-10-20 18:59:13,438 | Common.java | 72 | Getting value of Project_Name from Test Configuration file : Android Demo
+ INFO | 2015-10-20 18:59:13,438 | Common.java | 72 | Getting value of Version_Name from Test Configuration file : 1.7
+ INFO | 2015-10-20 18:59:13,438 | Common.java | 72 | Getting value of ToEmail from Test Configuration file : 
+ INFO | 2015-10-20 18:59:13,439 | Common.java | 72 | Getting value of CcEmail from Test Configuration file : 
+ INFO | 2015-10-20 18:59:13,666 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 18:59:13,667 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 18:59:13,667 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2015-10-20 18:59:13,668 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Cleanup activites...
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Cleanup activities - Done...
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | ###################################
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | Script Execution Complete
+ INFO | 2015-10-20 18:59:13,674 | Common.java | 72 | ####################################

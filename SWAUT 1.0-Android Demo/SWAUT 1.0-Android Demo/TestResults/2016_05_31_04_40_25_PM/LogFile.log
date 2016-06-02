@@ -1,0 +1,480 @@
+ INFO | 2016-05-31 16:40:25,564 | Common.java | 72 | Startup activites...
+ INFO | 2016-05-31 16:40:25,566 | Common.java | 72 | Test Output Directory creation successful :D:\POCs\Mobile\SWAUT 1.0-Android Demo\SWAUT 1.0-Android Demo\TestResults\2016_05_31_04_40_25_PM
+ INFO | 2016-05-31 16:40:25,567 | Common.java | 72 | Log File creation successful : LogFile.log
+ INFO | 2016-05-31 16:40:26,315 | Common.java | 72 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-05-31 16:40:26,496 | Common.java | 72 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-05-31 16:40:27,165 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:40:27,166 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:27,166 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:40:27,167 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:27,167 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:40:27,167 | Common.java | 72 | ##### Start of Test Case : Validate Addition #####
+ WARN | 2016-05-31 16:40:27,168 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Addition</h1></font><br/>
+ INFO | 2016-05-31 16:40:27,168 | Common.java | 72 | Getting value of AppName1 from Test Configuration file : Calculator
+ INFO | 2016-05-31 16:40:27,169 | Common.java | 72 | Getting value of AppPackageName1 from Test Configuration file : com.android.calculator2
+ INFO | 2016-05-31 16:40:27,170 | Common.java | 72 | Getting value of AppActivityName1 from Test Configuration file : com.android.calculator2.Calculator
+ INFO | 2016-05-31 16:40:27,170 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 16:40:27,174 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 16:40:27,174 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 16:40:27,175 | Common.java | 72 | Opening Calculator Application...
+ INFO | 2016-05-31 16:40:27,200 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2016-05-31 16:40:40,529 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:40:40,529 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:40,529 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:40:40,530 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:40,531 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:40,539 | Common.java | 72 | Time out set
+ INFO | 2016-05-31 16:40:40,539 | Common.java | 72 | Application: Open Successful: Calculator
+ INFO | 2016-05-31 16:40:40,539 | Common.java | 72 | Report step generation success : Open Application: ''Calculator''
+ INFO | 2016-05-31 16:40:43,220 | Common.java | 72 | Entered the integer1 ->45
+ INFO | 2016-05-31 16:40:43,221 | Common.java | 72 | Report step generation success : Entered the integer1 ->45
+ INFO | 2016-05-31 16:40:45,235 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2016-05-31 16:40:45,235 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ INFO | 2016-05-31 16:40:45,776 | Common.java | 72 | Expected ->50, Actual->50
+ INFO | 2016-05-31 16:40:45,776 | Common.java | 72 | Report step generation success : Expected ->50, Actual->50
+ INFO | 2016-05-31 16:40:47,102 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:40:47,103 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:47,104 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:40:47,105 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:40:47,106 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:40:47,106 | Common.java | 72 | ##### Start of Test Case : Validate Substraction #####
+ WARN | 2016-05-31 16:40:47,106 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Substraction</h1></font><br/>
+ INFO | 2016-05-31 16:40:56,367 | Common.java | 72 | Entered the integer1 ->56
+ INFO | 2016-05-31 16:40:56,368 | Common.java | 72 | Report step generation success : Entered the integer1 ->56
+ INFO | 2016-05-31 16:40:58,090 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2016-05-31 16:40:58,090 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ INFO | 2016-05-31 16:40:59,100 | Common.java | 72 | Expected ->51, Actual->51
+ INFO | 2016-05-31 16:40:59,100 | Common.java | 72 | Report step generation success : Expected ->51, Actual->51
+ INFO | 2016-05-31 16:41:00,322 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:41:00,323 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:00,324 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:41:00,324 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:00,325 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:41:00,325 | Common.java | 72 | ##### Start of Test Case : Validate Multiplication #####
+ WARN | 2016-05-31 16:41:00,325 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Multiplication</h1></font><br/>
+ INFO | 2016-05-31 16:41:09,770 | Common.java | 72 | Entered the integer1 ->12
+ INFO | 2016-05-31 16:41:09,771 | Common.java | 72 | Report step generation success : Entered the integer1 ->12
+ INFO | 2016-05-31 16:41:11,828 | Common.java | 72 | Entered the integer2 ->5
+ INFO | 2016-05-31 16:41:11,829 | Common.java | 72 | Report step generation success : Entered the integer2 ->5
+ERROR | 2016-05-31 16:41:12,401 | Common.java | 80 | Expected ->55, Actual->60
+ERROR | 2016-05-31 16:41:12,401 | Common.java | 80 | Report step generation success : Expected ->55, Actual->60
+ INFO | 2016-05-31 16:41:13,666 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:41:13,666 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:41:14,870 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:41:14,871 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:14,872 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:41:14,873 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:14,873 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:41:14,873 | Common.java | 72 | ##### Start of Test Case : Validate Division #####
+ WARN | 2016-05-31 16:41:14,873 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Validate Division</h1></font><br/>
+ INFO | 2016-05-31 16:41:24,654 | Common.java | 72 | Entered the integer1 ->90
+ INFO | 2016-05-31 16:41:24,655 | Common.java | 72 | Report step generation success : Entered the integer1 ->90
+ INFO | 2016-05-31 16:41:27,590 | Common.java | 72 | Entered the integer2 ->10
+ INFO | 2016-05-31 16:41:27,590 | Common.java | 72 | Report step generation success : Entered the integer2 ->10
+ INFO | 2016-05-31 16:41:28,327 | Common.java | 72 | Expected ->9, Actual->9
+ INFO | 2016-05-31 16:41:28,328 | Common.java | 72 | Report step generation success : Expected ->9, Actual->9
+ INFO | 2016-05-31 16:41:29,505 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:41:29,506 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:29,507 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:41:29,508 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:29,508 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:41:29,509 | Common.java | 72 | ##### Start of Test Case : Launch & Send Message #####
+ WARN | 2016-05-31 16:41:29,509 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Launch & Send Message</h1></font><br/>
+ INFO | 2016-05-31 16:41:29,526 | Common.java | 72 | Getting value of AppName2 from Test Configuration file : Viber
+ INFO | 2016-05-31 16:41:29,535 | Common.java | 72 | Getting value of AppPackageName2 from Test Configuration file : com.viber.voip
+ INFO | 2016-05-31 16:41:29,538 | Common.java | 72 | Getting value of AppActivityName2 from Test Configuration file : com.viber.voip.WelcomeActivity
+ INFO | 2016-05-31 16:41:29,540 | Common.java | 72 | Getting value of PlatFormName from Test Configuration file : Android
+ INFO | 2016-05-31 16:41:29,541 | Common.java | 72 | Getting value of IpAddress from Test Configuration file : 127.0.0.1
+ INFO | 2016-05-31 16:41:29,541 | Common.java | 72 | Getting value of PortNumber from Test Configuration file : 4723
+ INFO | 2016-05-31 16:41:29,541 | Common.java | 72 | Opening Viber Application...
+ INFO | 2016-05-31 16:41:29,542 | Common.java | 72 | Getting value of AppiumTimeOut from Test Configuration file : 500
+ INFO | 2016-05-31 16:41:37,515 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:41:37,516 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:37,517 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:41:37,517 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:37,518 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:37,526 | Common.java | 72 | Time out set
+ INFO | 2016-05-31 16:41:37,526 | Common.java | 72 | Application: Open Successful: Viber
+ INFO | 2016-05-31 16:41:37,526 | Common.java | 72 | Report step generation success : Open Application: ''Viber''
+ INFO | 2016-05-31 16:41:37,532 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2016-05-31 16:41:37,532 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:41:37,532 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2016-05-31 16:41:37,533 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2016-05-31 16:41:43,070 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2016-05-31 16:41:43,071 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2016-05-31 16:41:43,088 | Common.java | 72 | Parsing : Message From button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2016-05-31 16:41:43,088 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2016-05-31 16:41:43,088 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/from")
+ INFO | 2016-05-31 16:41:43,089 | Common.java | 72 | Locator Description : Message From button
+ERROR | 2016-05-31 16:41:43,173 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/from")'
+ INFO | 2016-05-31 16:41:43,555 | Common.java | 72 | Successfuly clicked on Message From button
+ INFO | 2016-05-31 16:41:43,557 | Common.java | 72 | Report step generation success : Click on :Message From button
+ INFO | 2016-05-31 16:41:43,594 | Common.java | 72 | Parsing : Send Text Field#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2016-05-31 16:41:43,594 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2016-05-31 16:41:43,594 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/send_text")
+ INFO | 2016-05-31 16:41:43,595 | Common.java | 72 | Locator Description : Send Text Field
+ERROR | 2016-05-31 16:41:44,208 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/send_text")'
+ INFO | 2016-05-31 16:41:54,822 | Common.java | 72 | Typing 'Sample message sfpyy' in : Send Text Field
+ INFO | 2016-05-31 16:41:54,823 | Common.java | 72 | Report step generation success : Type 'Sample message sfpyy' in : Send Text Field
+ INFO | 2016-05-31 16:41:54,871 | Common.java | 72 | Parsing : Send Extra Button#androiduiautomator=new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2016-05-31 16:41:54,876 | Common.java | 72 | Identify By : androiduiautomator
+ INFO | 2016-05-31 16:41:54,876 | Common.java | 72 | Locator : new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")
+ INFO | 2016-05-31 16:41:54,876 | Common.java | 72 | Locator Description : Send Extra Button
+ERROR | 2016-05-31 16:41:55,364 | Common.java | 80 | Element not found 'new UiSelector().resourceId("com.viber.voip:id/btn_send_extra")'
+ INFO | 2016-05-31 16:41:56,298 | Common.java | 72 | Successfuly clicked on Send Extra Button
+ INFO | 2016-05-31 16:41:56,298 | Common.java | 72 | Report step generation success : Click on :Send Extra Button
+ INFO | 2016-05-31 16:41:57,521 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:41:57,524 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:57,525 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:41:57,531 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:41:57,532 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:41:57,532 | Common.java | 72 | ##### Start of Test Case : Viber Menu Navigation #####
+ WARN | 2016-05-31 16:41:57,533 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Viber Menu Navigation</h1></font><br/>
+ INFO | 2016-05-31 16:42:05,226 | Common.java | 72 | Parsing : Messages Icon button#xpath=//*[@content-desc='Messages']
+ INFO | 2016-05-31 16:42:05,226 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:05,226 | Common.java | 72 | Locator : //*[@content-desc='Messages']
+ INFO | 2016-05-31 16:42:05,226 | Common.java | 72 | Locator Description : Messages Icon button
+ INFO | 2016-05-31 16:42:10,525 | Common.java | 72 | Successfuly clicked on Messages Icon button
+ INFO | 2016-05-31 16:42:10,525 | Common.java | 72 | Report step generation success : Click on :Messages Icon button
+ INFO | 2016-05-31 16:42:10,526 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2016-05-31 16:42:13,538 | Common.java | 72 | Parsing : Contacts button#xpath=//*[@content-desc='Contacts']
+ INFO | 2016-05-31 16:42:13,539 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:13,539 | Common.java | 72 | Locator : //*[@content-desc='Contacts']
+ INFO | 2016-05-31 16:42:13,539 | Common.java | 72 | Locator Description : Contacts button
+ INFO | 2016-05-31 16:42:14,006 | Common.java | 72 | Successfuly clicked on Contacts button
+ INFO | 2016-05-31 16:42:14,006 | Common.java | 72 | Report step generation success : Click on :Contacts button
+ INFO | 2016-05-31 16:42:14,007 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2016-05-31 16:42:17,032 | Common.java | 72 | Parsing : Keypad button#xpath=//*[@content-desc='Keypad']
+ INFO | 2016-05-31 16:42:17,033 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:17,033 | Common.java | 72 | Locator : //*[@content-desc='Keypad']
+ INFO | 2016-05-31 16:42:17,033 | Common.java | 72 | Locator Description : Keypad button
+ INFO | 2016-05-31 16:42:17,529 | Common.java | 72 | Successfuly clicked on Keypad button
+ INFO | 2016-05-31 16:42:17,529 | Common.java | 72 | Report step generation success : Click on :Keypad button
+ INFO | 2016-05-31 16:42:17,529 | Common.java | 72 | Waiting for 3 seconds...
+ INFO | 2016-05-31 16:42:20,541 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:20,542 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:20,542 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:20,542 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:20,703 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:21,703 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:21,704 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:21,704 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:21,704 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:21,888 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:22,888 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:22,888 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:22,888 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:22,889 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:23,015 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:24,015 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:24,015 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:24,015 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:24,015 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:24,188 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:25,188 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:25,188 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:25,188 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:25,188 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:25,356 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:26,357 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:26,357 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:26,357 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:26,357 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:26,526 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:27,526 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:27,527 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:27,527 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:27,527 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:27,692 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:28,693 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:28,693 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:28,693 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:28,693 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:28,848 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:29,848 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:29,848 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:29,848 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:29,849 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:30,008 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:31,008 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:31,008 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:31,008 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:31,009 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:31,143 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:32,143 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:32,143 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:32,143 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:32,143 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:32,311 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:33,312 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:33,312 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:33,313 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:33,313 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:33,482 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:34,482 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:34,482 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:34,482 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:34,483 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:34,689 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:35,689 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:35,689 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:35,689 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:35,690 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:35,865 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:36,865 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:36,865 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:36,865 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:36,866 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:37,012 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:38,014 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:38,014 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:38,014 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:38,015 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:38,206 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:39,206 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:39,206 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:39,206 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:39,207 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:39,368 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:40,368 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:40,368 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:40,368 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:40,368 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:40,566 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:41,566 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:41,566 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:41,566 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:41,567 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:41,723 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:42,723 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:42,723 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:42,723 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:42,724 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:42,865 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:43,867 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:43,867 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:43,868 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:43,869 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:44,042 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:45,043 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:45,043 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:45,043 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:45,044 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:45,194 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:46,194 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:46,194 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:46,194 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:46,195 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:46,367 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:47,368 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:47,368 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:47,369 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:47,369 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:47,514 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:48,515 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:48,515 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:48,515 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:48,516 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:48,682 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:49,683 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:49,683 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:49,683 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:49,684 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:49,824 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:50,824 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:50,824 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:50,824 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:50,825 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:50,971 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:51,971 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:51,971 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:51,988 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:51,988 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:52,165 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:53,167 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:53,168 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:53,168 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:53,168 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:53,381 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:54,381 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:54,381 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:54,381 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:54,382 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:54,547 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:55,547 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:55,547 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:55,547 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:55,547 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:55,703 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:56,703 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:56,703 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:56,707 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:56,707 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:56,900 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:57,900 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:57,900 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:57,900 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:57,901 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:58,076 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:42:59,076 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:59,076 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:42:59,076 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:42:59,077 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:42:59,222 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:00,222 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:00,222 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:00,223 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:00,223 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:00,445 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:01,445 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:01,445 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:01,445 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:01,446 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:01,590 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:02,591 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:02,591 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:02,591 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:02,592 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:02,756 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:03,757 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:03,757 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:03,757 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:03,757 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:03,926 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:04,926 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:04,926 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:04,926 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:04,927 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:05,102 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:06,102 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:06,102 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:06,102 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:06,103 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:06,301 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:07,301 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:07,301 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:07,301 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:07,301 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:07,481 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:08,482 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:08,482 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:08,482 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:08,483 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:08,633 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:09,633 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:09,633 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:09,633 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:09,634 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:09,801 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:10,801 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:10,801 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:10,801 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:10,802 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:10,955 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:11,956 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:11,956 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:11,956 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:11,956 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:12,124 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:13,125 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:13,125 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:13,125 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:13,126 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:13,303 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:14,303 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:14,304 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:14,304 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:14,304 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:14,481 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:15,481 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:15,481 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:15,481 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:15,481 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:15,681 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:16,681 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:16,681 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:16,681 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:16,682 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:16,826 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:17,827 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:17,827 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:17,827 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:17,828 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:18,006 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:19,007 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:19,007 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:19,007 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:19,007 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:19,142 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:20,142 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:20,142 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:20,142 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:20,142 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:20,337 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:21,337 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:21,337 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:21,337 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:21,337 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:21,481 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:22,481 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:22,481 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:22,481 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:22,481 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:22,635 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:23,636 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:23,636 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:23,636 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:23,636 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:23,765 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:24,766 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:24,766 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:24,766 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:24,766 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:24,945 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:25,945 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:25,945 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:25,945 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:25,945 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:26,099 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:27,099 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:27,099 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:27,099 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:27,099 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:27,274 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:28,275 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:28,275 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:28,275 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:28,275 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:28,429 | Common.java | 72 | Waiting for 1 seconds...
+ INFO | 2016-05-31 16:43:29,429 | Common.java | 72 | Parsing : Groups Icon button#xpath=//*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:29,429 | Common.java | 72 | Identify By : xpath
+ INFO | 2016-05-31 16:43:29,429 | Common.java | 72 | Locator : //*[@content-desc='Groups']
+ INFO | 2016-05-31 16:43:29,430 | Common.java | 72 | Locator Description : Groups Icon button
+ INFO | 2016-05-31 16:43:29,574 | Common.java | 72 | Waiting for 1 seconds...
+ERROR | 2016-05-31 16:43:30,574 | Common.java | 80 | Groups Icon button element not found within '60' seconds timeout 
+ERROR | 2016-05-31 16:43:30,574 | Common.java | 80 | Report step generation success : Groups Icon button element not found within '60' seconds timeout 
+ INFO | 2016-05-31 16:43:31,683 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:43:31,684 | Common.java | 72 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:43:32,942 | Common.java | 72 | Getting value of ElementLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-05-31 16:43:32,942 | Common.java | 72 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:43:32,943 | Common.java | 72 | Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2016-05-31 16:43:32,943 | Common.java | 72 | Getting value of ImplicitlyWaitTime from Test Configuration file : 10
+ INFO | 2016-05-31 16:43:32,943 | Common.java | 72 | Element time out set
+ INFO | 2016-05-31 16:43:32,943 | Common.java | 72 | ##### Start of Test Case : Verify Book Flight #####
+ WARN | 2016-05-31 16:43:32,943 | Common.java | 76 | Report step generation success : <B></B><h1><font color=SaddleBrown>Verify Book Flight</h1></font><br/>
+ INFO | 2016-05-31 16:43:55,062 | Common.java | 72 | Getting value of Project_Name from Test Configuration file : Android Demo
+ INFO | 2016-05-31 16:43:55,062 | Common.java | 72 | Getting value of Version_Name from Test Configuration file : 1.7
+ INFO | 2016-05-31 16:43:55,062 | Common.java | 72 | Getting value of ToEmail from Test Configuration file : 
+ INFO | 2016-05-31 16:43:55,062 | Common.java | 72 | Getting value of CcEmail from Test Configuration file : 
+ INFO | 2016-05-31 16:43:55,493 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-05-31 16:43:55,494 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2016-05-31 16:43:55,494 | Common.java | 72 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-05-31 16:43:55,494 | Common.java | 72 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\AndroidLogo.JPG
+ INFO | 2016-05-31 16:43:55,536 | Common.java | 72 | Cleanup activites...
+ INFO | 2016-05-31 16:43:55,536 | Common.java | 72 | Cleanup activities - Done...
+ INFO | 2016-05-31 16:43:55,536 | Common.java | 72 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:43:55,537 | Common.java | 72 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:43:55,537 | Common.java | 72 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2016-05-31 16:43:55,537 | Common.java | 72 | ###################################
+ INFO | 2016-05-31 16:43:55,537 | Common.java | 72 | Script Execution Complete
+ INFO | 2016-05-31 16:43:55,537 | Common.java | 72 | ####################################

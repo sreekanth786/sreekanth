@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="iSAFE 1.0-Android Demo/src"/>
+	<classpathentry kind="src" path="iSAFE 1.0-Android Demo/Tests"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/activation.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/com.springsource.com.lowagie.text-2.0.8.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/core-renderer-R8pre2.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/iSAFE-Mobile-Updated.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/iSafe-vserv.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/iSAFE1.0-Aug22nd2014.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/java-client-1.6.1.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/jtidy-r872-jdk15.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/jxl.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/mail.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="iSAFE 1.0-Android Demo/ext/twilio-java-sdk-3.4.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="iSAFE 1.0-Android Demo/bin"/>
+</classpath>
